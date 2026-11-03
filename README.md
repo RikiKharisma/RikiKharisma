@@ -1,4 +1,4 @@
-I'm Riki, I'm not a developer but I love programming. JavaScripts are the language I love.
+Network Enginer & System Administrator.
 
 
 
